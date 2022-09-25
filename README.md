@@ -8,7 +8,7 @@ I'm in the process of starting up my own game development studio, which I'll sha
 
 I have worked with a wide variety of programming languages over the decades, including BASIC, pascal, C, C++, C#, REXX, BASH, MS-DOS batch files,
 and even LabVIEW. I have worked with Apple II's, Macs, PC's, the Commodore VIC-20 and Amiga, various large UNIX systems, IBM 370 mainframes, almost every
-version of Windows (except 1.0),and assorted other systems. Currently I work and game almost exclusively on Linux.
+version of Windows (except 1.0), and assorted other systems. Currently I work and game almost exclusively on Linux.
 
 I use Fedora 36 and KDE as my daily driver. I ran away from Gnome, screaming.
 
