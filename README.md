@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on games and game related software
 - 📫 How to reach me ... No contact info!
 
-I'm in the process of starting up my own game development studio, which I'll share later on.
+I'm in the process of starting up my own game development studio, which I'll share later on. Meanwhile I'm learning Godot, and floundering about rather poorly with Unity.
 
 I have worked with a wide variety of programming languages over the decades, including BASIC, pascal, C, C++, C#, REXX, BASH, MS-DOS batch files,
 and even LabVIEW. I have worked with Apple II's, Macs, the Commodore VIC-20 and Amiga, various large UNIX systems, IBM 370 mainframes, almost every
