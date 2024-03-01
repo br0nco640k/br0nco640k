@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @br0nco640k
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unreal Engine 5 and Blueprint
+- 🌱 I’m currently learning Godot and GDscript
 - 💞️ I’m looking to collaborate on games and game related software
 - 📫 How to reach me ... No contact info!
 
