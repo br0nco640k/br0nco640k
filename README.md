@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @br0nco640k
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# and Python
 - 💞️ I’m looking to collaborate on games and game related software
 - 📫 How to reach me ... No contact info!
 
