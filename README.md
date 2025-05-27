@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @br0nco640k
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning c# and Python
+- 🌱 I’m currently learning c#, Python and GDscript
 - 💞️ I’m looking to collaborate on games and game related software
 - 📫 How to reach me ... No contact info!
 
-I'm in the process of starting up my own game development studio. I currently develop games in Unity, and some non-game software in Godot. In my spare
+I'm in the process of starting up my own game development studio. I currently develop games and some non-game software in Godot. In my spare
 time I work on Bard Diva, which is a bard performance app for Final Fantasy XIV that is written in Python for Linux, Mac and Windows.
 
 I have worked with a wide variety of programming languages over the decades, including BASIC, pascal, C, C++, C#, REXX, BASH, MS-DOS batch files,
