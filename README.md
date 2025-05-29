@@ -11,6 +11,9 @@ I have worked with a wide variety of programming languages over the decades, inc
 and even LabVIEW. I have worked with Apple II's, Macs, the Commodore VIC-20 and Amiga, various large UNIX systems, IBM 370 mainframes, almost every
 version of Windows (except 1.0), FreeBSD, various Linux distros going back to Slackware in the 90's, and assorted other systems.
 
+I'm dual booting Windows 11 and Bazzite Linux for my daily work right now. My main project is a vtuber app that will be cross platform (Windows, Mac, 
+and Linux).
+
 I'm not currently using AI for anything, but I'll be re-evaluating it soon, when it can do something more useful than drawing people with extra
 limbs or writing really terrible code that I'll have to fix myself anyway.
 <!---
