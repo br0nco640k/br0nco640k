@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @br0nco640k
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Python and GDscript
+- 🌱 I’m currently learning Python, GML and GDscript
 - 💞️ I’m looking to collaborate on games and game related software
 - 📫 How to reach me ... No contact info!
 
-I'm in the process of starting up my own game development studio. I currently develop games and some non-game software in Godot. In my spare
-time I work on Bard Diva, which is a bard performance app for Final Fantasy XIV that is written in Python for Linux, Mac and Windows. At one point I
-used Unity, but I'm completely fed up with them, and will never use it again.
+I'm in the process of starting up my own game development studio. I currently develop games and some non-game software in Godot and Gamemaker Studio. In
+my spare time I work on Bard Diva, which is a bard performance app for Final Fantasy XIV that is written in Python for Linux, Mac and Windows. At one point
+I used Unity, but I'm completely fed up with them, and will never use it again.
 
 I have worked with a wide variety of programming languages over the decades, including BASIC, pascal, C, C++, C#, REXX, BASH scripts, MS-DOS batch files,
 and even LabVIEW. I have worked with Apple II's, Macs, the Commodore VIC-20 and Amiga, various large UNIX systems, IBM 370 mainframes, almost every
